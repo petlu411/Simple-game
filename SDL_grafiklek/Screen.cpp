@@ -1,5 +1,5 @@
 #include "Screen.h"
-
+#include <SDL2/SDL.h>
 
 Screen::Screen() :m_window(NULL), m_renderer(NULL), m_texture(NULL), m_buffer1(NULL), m_buffer2(NULL){
 

@@ -1,6 +1,8 @@
 #pragma once
-#include"SDL.h"
+//#include"SDL.h"
 #include<iostream>
+#include <SDL2/SDL.h>
+
 class Screen
 {
 public:

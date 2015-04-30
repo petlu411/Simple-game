@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>20A37AD4-F0C9-4CC2-9954-306EB0CF5BFF</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SDL_grafiklek</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>91634F8FA8743D51C1F3FAF08B147D4A6DE3DA6C</key>
+		<string>https://github.com/petlu411/spelet</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SDL_grafiklek.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>91634F8FA8743D51C1F3FAF08B147D4A6DE3DA6C</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/petlu411/spelet</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>91634F8FA8743D51C1F3FAF08B147D4A6DE3DA6C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>91634F8FA8743D51C1F3FAF08B147D4A6DE3DA6C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>spelet</string>
+		</dict>
+	</array>
+</dict>
+</plist>

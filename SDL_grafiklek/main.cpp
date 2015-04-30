@@ -1,4 +1,5 @@
-#include <SDL.h>
+//#include <SDL.h>
+#include <SDL2/SDL.h>
 #include <iostream>
 #include"Screen.h"
 #include<stdio.h>
@@ -36,10 +37,13 @@ int main(int argc, char ** argv)
 
 
 	screen.update();
-	SDL_Delay(10000);
+    while( true ) {
+        if( screen.processEvents() == false ) {
+            break;
+        }
+    }
 
 	screen.close();
-	SDL_Quit();
 
 	return 0;
 }
