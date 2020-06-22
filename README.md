@@ -1,2 +1,2 @@
-# spelet
-Vi ska göra ett spel. Det blir nog kul.
+# A simple game
+This is a simple game made in C++
